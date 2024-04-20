@@ -1,2 +1,2 @@
 # Midterm-exam
-This is the first homework of python. 
+This is the homework of python. 
