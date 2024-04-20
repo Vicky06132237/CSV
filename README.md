@@ -1,2 +1,2 @@
 # Midterm-exam
-Write a new film.
+This is the first homework of python. 
